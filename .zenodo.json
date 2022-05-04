@@ -1,0 +1,9 @@
+{
+    "description": "Test sandbox", 
+    "title": "Test Zenodo Sandbox", 
+    "keywords": [
+        "test"
+    ],
+    
+    "access_right": "open"    
+}
